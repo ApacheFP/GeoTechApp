@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoTechApp evo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="camera_options">
+        <item>Telecamera 1</item>
+        <item>Telecamera 2</item>
+        <item>Telecamera 3</item>
+        <!-- Aggiungi qui altre opzioni delle telecamere -->
+    </string-array>
+</resources>
